@@ -1,0 +1,17 @@
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\CADDAMWinForms.exe.config
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\CADDAMWinForms.exe
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\CADDAMWinForms.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\OpenTK.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\OpenTK.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\OpenTK.xml
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\CADDAMWinForms.csprojAssemblyReference.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\CADDAMWinForms.Form1.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\CADDAMWinForms.Properties.Resources.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\CADDAMWinForms.csproj.GenerateResource.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\CADDAMWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\CADDAMWinForms.csproj.CopyComplete
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\CADDAMWinForms.exe
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\CADDAMWinForms.pdb

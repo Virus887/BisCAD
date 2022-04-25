@@ -1,0 +1,79 @@
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\BisCAD.csprojAssemblyReference.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\BisCAD.Properties.Resources.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\BisCAD.csproj.GenerateResource.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\BisCAD.csproj.CoreCompileInputs.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\BisCAD.exe.config
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\BisCAD.exe
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\BisCAD.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\OpenTK.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\OpenTK.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\OpenTK.xml
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\BisCAD.csproj.CopyComplete
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\BisCAD.exe
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\BisCAD.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms\CADDAMWinForms\obj\Debug\BisCAD.MainForm.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\bin\Debug\BisCAD.exe.config
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\bin\Debug\BisCAD.exe
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\bin\Debug\BisCAD.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\bin\Debug\OpenTK.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\bin\Debug\OpenTK.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\bin\Debug\OpenTK.xml
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\obj\Debug\BisCAD.csprojAssemblyReference.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\obj\Debug\BisCAD.MainForm.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\obj\Debug\BisCAD.Properties.Resources.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\obj\Debug\BisCAD.csproj.GenerateResource.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\obj\Debug\BisCAD.csproj.CoreCompileInputs.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\obj\Debug\BisCAD.csproj.CopyComplete
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\obj\Debug\BisCAD.exe
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms - Copy\CADDAMWinForms\obj\Debug\BisCAD.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\bin\Debug\BisCAD.exe.config
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\bin\Debug\BisCAD.exe
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\bin\Debug\BisCAD.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\bin\Debug\OpenTK.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\bin\Debug\OpenTK.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\bin\Debug\OpenTK.xml
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\obj\Debug\BisCAD.csprojAssemblyReference.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\obj\Debug\BisCAD.MainForm.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\obj\Debug\BisCAD.Properties.Resources.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\obj\Debug\BisCAD.csproj.GenerateResource.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\obj\Debug\BisCAD.csproj.CoreCompileInputs.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\obj\Debug\BisCAD.csproj.CopyComplete
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\obj\Debug\BisCAD.exe
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\obj\Debug\BisCAD.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\obj\Debug\BisCAD.UserControls.TorusUserControl.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\obj\Debug\BisCAD.UserControls.PointUserControl.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\CADDAMWinForms-FINAL\CADDAMWinForms\obj\Debug\BisCAD.UserControls.ElementGroupUserControl.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.csprojAssemblyReference.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.MainForm.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.Properties.Resources.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.UserControls.ElementGroupUserControl.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.UserControls.PointUserControl.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.UserControls.TorusUserControl.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.csproj.GenerateResource.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.csproj.CoreCompileInputs.cache
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.exe
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\bin\Debug\BisCAD.exe.config
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\bin\Debug\BisCAD.exe
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\bin\Debug\BisCAD.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\bin\Debug\OpenTK.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\bin\Debug\OpenTK.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\bin\Debug\OpenTK.xml
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.csproj.CopyComplete
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.UserControls.MultiBezierCurveControl.resources
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\bin\Debug\GeoAPI.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\bin\Debug\NetTopologySuite.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\bin\Debug\PowerCollections.dll
+C:\Users\ginka\Desktop\STUDIA MAGISTERSKIE\MG1\W razie co\CADDAMWinForms\obj\Debug\BisCAD.UserControls.MultiBezierCurveC2Control.resources
